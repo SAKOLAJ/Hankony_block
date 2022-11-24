@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "something:block/zircon_block"}
+  }
+}

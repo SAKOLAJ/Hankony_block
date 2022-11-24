@@ -1,0 +1,11 @@
+{
+  "item.something.zircon" : "Zircon",
+  "item.something.raw_zircon" : "Raw Zircon",
+  "item.something.eight_ball" : "Eight Ball",
+
+  "block.something.zircon_block": "Block of Zircon",
+  "block.something.zircon_ore": "Zircon Ore",
+  "block.something.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
+  "itemGroup.somethingtab" : "Something"
+}
